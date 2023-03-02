@@ -1,3 +1,1 @@
-#!/bin/bash
-
-echo "alx"
+This is an alx project
